@@ -1,0 +1,4 @@
+fastapi~=0.112.2
+vllm
+huggingface_hub[cli]
+together
